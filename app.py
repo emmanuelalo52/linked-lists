@@ -1,1 +1,0 @@
-from inkedlist import *
